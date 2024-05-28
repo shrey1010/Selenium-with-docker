@@ -1,2 +1,2 @@
-# Selenium-with-docker-
-A quic guide to setup selenium in docker file . 
+# Selenium-with-docker
+A quick guide to run selenium via docker
